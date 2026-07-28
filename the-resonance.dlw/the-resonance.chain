@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1768
+slug  : the-resonance
+seal  : 834ab046cb83b9661a8740ab80faaa4280b83ca9e5052152f9cb8a81f827a610
+prev  : 5da2aba43a5025fff575a60c7ab4d5d4591cd735b51bc201bad5f2616641bb51
+link  : 63f2911a0a028df177866b0d5d3f1ebf5ecded1372e667883bc88853251244e7
+head  : 16169f11861745ac632086146282f9dafacd50fce6778d99f7c95b17e284f0d4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
